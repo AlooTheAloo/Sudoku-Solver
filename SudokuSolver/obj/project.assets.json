@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Phili\\.nuget\\packages\\": {}
+    "C:\\Users\\Phili\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phili\\source\\repos\\SudokuSolver\\SudokuSolver\\SudokuSolver.csproj",
+      "projectUniqueName": "C:\\Users\\Phili\\source\\repos\\SudokuSolver\\Sudoku-Solver\\SudokuSolver\\SudokuSolver.csproj",
       "projectName": "SudokuSolver",
-      "projectPath": "C:\\Users\\Phili\\source\\repos\\SudokuSolver\\SudokuSolver\\SudokuSolver.csproj",
+      "projectPath": "C:\\Users\\Phili\\source\\repos\\SudokuSolver\\Sudoku-Solver\\SudokuSolver\\SudokuSolver.csproj",
       "packagesPath": "C:\\Users\\Phili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phili\\source\\repos\\SudokuSolver\\SudokuSolver\\obj\\",
+      "outputPath": "C:\\Users\\Phili\\source\\repos\\SudokuSolver\\Sudoku-Solver\\SudokuSolver\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Phili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

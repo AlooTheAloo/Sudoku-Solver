@@ -12,3 +12,17 @@ C:\Users\Phili\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\Su
 C:\Users\Phili\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.dll
 C:\Users\Phili\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.pdb
 C:\Users\Phili\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.genruntimeconfig.cache
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.csproj.AssemblyReference.cache
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.AssemblyInfo.cs
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.dll
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.pdb
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.exe
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.deps.json
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.runtimeconfig.json
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.runtimeconfig.dev.json
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.dll
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.pdb
+C:\Users\Phili\source\repos\SudokuSolver\Sudoku-Solver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.genruntimeconfig.cache
